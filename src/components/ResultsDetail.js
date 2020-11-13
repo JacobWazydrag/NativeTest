@@ -24,8 +24,8 @@ const styles = StyleSheet.create({
     },
     nameStyle: {
         fontWeight: 'bold'
-    },
-    container: {
-        marginLeft: 15
-    }
+    // },
+    // container: {
+    //     marginLeft: 15
+    // }
 })
